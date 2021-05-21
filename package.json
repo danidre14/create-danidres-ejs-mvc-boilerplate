@@ -1,0 +1,24 @@
+{
+  "name": "create-danidres-ejs-mvc-boilerplate",
+  "version": "1.0.0",
+  "description": "Personal Express MVC Boilerplate for Danidre",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "ejs",
+    "boilerplate",
+    "app"
+  ],
+  "author": "Danidre (danidre.com)",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "shelljs": "^0.8.4"
+  },
+  "bin": {
+    "create-danidres-ejs-mvc-boilerplate": "index.js"
+  }
+}
