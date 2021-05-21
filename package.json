@@ -12,6 +12,11 @@
     "boilerplate",
     "app"
   ],
+  "homepage": "https://github.com/danidre14/create-danidres-ejs-mvc-boilerplate",
+  "bugs": {
+    "url": "https://github.com/danidre14/create-danidres-ejs-mvc-boilerplate/issues",
+    "email": "danidre14@gmail.com"
+  },
   "author": "Danidre (danidre.com)",
   "license": "MIT",
   "dependencies": {
